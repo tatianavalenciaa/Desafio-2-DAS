@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UDB\\DAS\\Desafio2\\CineApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E4F63A-63B2-4FCA-8ED3-792AD3C72F1D}|CineApp\\CineApp.csproj|D:\\UDB\\DAS\\Desafio2\\CineApp\\cineapp\\views\\peliculas\\paginador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9E4F63A-63B2-4FCA-8ED3-792AD3C72F1D}|CineApp\\CineApp.csproj|solutionrelative:cineapp\\views\\peliculas\\paginador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E4F63A-63B2-4FCA-8ED3-792AD3C72F1D}|CineApp\\CineApp.csproj|d:\\udb\\das\\desafio2\\cineapp\\cineapp\\views\\peliculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9E4F63A-63B2-4FCA-8ED3-792AD3C72F1D}|CineApp\\CineApp.csproj|solutionrelative:cineapp\\views\\peliculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E4F63A-63B2-4FCA-8ED3-792AD3C72F1D}|CineApp\\CineApp.csproj|D:\\UDB\\DAS\\Desafio2\\CineApp\\cineapp\\dtos\\paginador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E4F63A-63B2-4FCA-8ED3-792AD3C72F1D}|CineApp\\CineApp.csproj|solutionrelative:cineapp\\dtos\\paginador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E4F63A-63B2-4FCA-8ED3-792AD3C72F1D}|CineApp\\CineApp.csproj|D:\\UDB\\DAS\\Desafio2\\CineApp\\cineapp\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E4F63A-63B2-4FCA-8ED3-792AD3C72F1D}|CineApp\\CineApp.csproj|solutionrelative:cineapp\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E4F63A-63B2-4FCA-8ED3-792AD3C72F1D}|CineApp\\CineApp.csproj|d:\\udb\\das\\desafio2\\cineapp\\cineapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9E4F63A-63B2-4FCA-8ED3-792AD3C72F1D}|CineApp\\CineApp.csproj|solutionrelative:cineapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Paginador.cshtml",
+              "DocumentMoniker": "D:\\UDB\\DAS\\Desafio2\\CineApp\\CineApp\\Views\\Peliculas\\Paginador.cshtml",
+              "RelativeDocumentMoniker": "CineApp\\Views\\Peliculas\\Paginador.cshtml",
+              "ToolTip": "D:\\UDB\\DAS\\Desafio2\\CineApp\\CineApp\\Views\\Peliculas\\Paginador.cshtml",
+              "RelativeToolTip": "CineApp\\Views\\Peliculas\\Paginador.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T14:42:54.983Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\UDB\\DAS\\Desafio2\\CineApp\\CineApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CineApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\UDB\\DAS\\Desafio2\\CineApp\\CineApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CineApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T20:31:05.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paginador.cs",
+              "DocumentMoniker": "D:\\UDB\\DAS\\Desafio2\\CineApp\\CineApp\\Dtos\\Paginador.cs",
+              "RelativeDocumentMoniker": "CineApp\\Dtos\\Paginador.cs",
+              "ToolTip": "D:\\UDB\\DAS\\Desafio2\\CineApp\\CineApp\\Dtos\\Paginador.cs",
+              "RelativeToolTip": "CineApp\\Dtos\\Paginador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:14:30.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PeliculasController.cs",
+              "DocumentMoniker": "D:\\UDB\\DAS\\Desafio2\\CineApp\\CineApp\\Controllers\\PeliculasController.cs",
+              "RelativeDocumentMoniker": "CineApp\\Controllers\\PeliculasController.cs",
+              "ToolTip": "D:\\UDB\\DAS\\Desafio2\\CineApp\\CineApp\\Controllers\\PeliculasController.cs",
+              "RelativeToolTip": "CineApp\\Controllers\\PeliculasController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAjwCIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:59:21.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UDB\\DAS\\Desafio2\\CineApp\\CineApp\\Views\\Peliculas\\Index.cshtml",
+              "RelativeDocumentMoniker": "CineApp\\Views\\Peliculas\\Index.cshtml",
+              "ToolTip": "D:\\UDB\\DAS\\Desafio2\\CineApp\\CineApp\\Views\\Peliculas\\Index.cshtml",
+              "RelativeToolTip": "CineApp\\Views\\Peliculas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T04:31:31.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

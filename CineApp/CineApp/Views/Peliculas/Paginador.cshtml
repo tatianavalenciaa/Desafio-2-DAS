@@ -1,0 +1,46 @@
+﻿@model IEnumerable<CineApp.Models.Pelicula>
+@{
+    ViewBag.Title = "Paginador";
+}
+
+@{
+    int totalPaginas = ViewBag.Paginador != null ? ViewBag.Paginador.TotalPaginas : 0;
+}
+
+<div class="row">
+    <div class="col-sm-12 col-md-12 col-lg-4">
+        @if (totalPaginas > 0) {
+            for (int i = 1; i <= totalPaginas; i++) {
+                @Html.ActionLink(i.ToString(), "Paginador", "Peliculas", new { pagina = i, cantRegs = ViewBag.Paginador.TotalRegsAMostrar }, new { @class = "btn btn-outline-danger btn-sm" })
+            }
+        }
+    </div>
+    <div class="col-sm-12 col-md-12 col-lg-4 text-center">
+        Pag: @ViewBag.Paginador.PaginaActual | Mostrando: @ViewBag.Paginador.TotalRegsAMostrar/@ViewBag.Paginador.TotalRegsTabla registros.
+    </div>
+    <div class="col-sm-12 col-md-12 col-lg-4 d-flex flex-row-reverse">
+        @using (Html.BeginForm("Paginador", "Peliculas", FormMethod.Get)) {
+            @Html.DropDownList("cantRegs", (IEnumerable<SelectListItem>)ViewBag.Options, new { id = "selectedValue", onchange = "this.form.submit();" })
+            @Html.Hidden("pagina", 1)
+        }
+    </div>
+</div>
+
+<hr />
+
+<div class="d-flex flex-row flex-wrap">
+    @foreach (var pelicula in Model) {
+        <div class="card p-3" style="width: 16rem;">
+            <img src="@Url.Content(pelicula.Poster)" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">@pelicula.Titulo</h5>
+                @pelicula.Ranking ⭐
+                <p class="card-text">
+                    @pelicula.Sinopsis ...
+                    <br />
+                    @Html.ActionLink("Ver mas...", "ModificarForm", "Peliculas", new { id = pelicula.IdPelicula }, new { @class = "btn btn-outline-danger btn-sm" })
+                </p>
+            </div>
+        </div>
+    }
+</div>

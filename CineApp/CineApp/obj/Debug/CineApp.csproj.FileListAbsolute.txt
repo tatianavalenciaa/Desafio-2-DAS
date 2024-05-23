@@ -1,0 +1,158 @@
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\CineApp.dll.config
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\CineApp.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\CineApp.pdb
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\csc.exe
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\csc.exe.config
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\csc.rsp
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\csi.exe
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\csi.exe.config
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\csi.rsp
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.AppContext.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Collections.Immutable.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Console.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.IO.Compression.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.IO.FileSystem.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Net.Http.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Net.Sockets.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.ValueTuple.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Xml.XPath.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\vbc.exe
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\vbc.exe.config
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\vbc.rsp
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\VBCSCompiler.exe
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\roslyn\VBCSCompiler.exe.config
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\Antlr3.Runtime.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\Microsoft.Web.Infrastructure.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\Newtonsoft.Json.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\System.Web.Helpers.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\System.Web.Mvc.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\System.Web.Optimization.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\System.Web.Razor.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\System.Web.WebPages.Deployment.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\System.Web.WebPages.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\System.Web.WebPages.Razor.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\WebGrease.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\System.Web.Helpers.xml
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\System.Web.Mvc.xml
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\System.Web.Optimization.xml
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\System.Web.Razor.xml
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\System.Web.WebPages.xml
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\System.Web.WebPages.Deployment.xml
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\System.Web.WebPages.Razor.xml
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\Newtonsoft.Json.xml
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\Antlr3.Runtime.pdb
+D:\UDB\DAS\Desafio2\CineApp\CineApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UDB\DAS\Desafio2\CineApp\CineApp\obj\Debug\CineApp.csproj.AssemblyReference.cache
+D:\UDB\DAS\Desafio2\CineApp\CineApp\obj\Debug\CineApp.csproj.CoreCompileInputs.cache
+D:\UDB\DAS\Desafio2\CineApp\CineApp\obj\Debug\CineApp.csproj.Up2Date
+D:\UDB\DAS\Desafio2\CineApp\CineApp\obj\Debug\CineApp.dll
+D:\UDB\DAS\Desafio2\CineApp\CineApp\obj\Debug\CineApp.pdb
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\CineApp.dll.config
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\CineApp.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\CineApp.pdb
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\csc.exe
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\csc.exe.config
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\csc.rsp
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\csi.exe
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\csi.exe.config
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\csi.rsp
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.AppContext.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Console.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\vbc.exe
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\vbc.exe.config
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\vbc.rsp
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\Antlr3.Runtime.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\Newtonsoft.Json.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\System.Web.Helpers.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\System.Web.Mvc.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\System.Web.Optimization.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\System.Web.Razor.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\System.Web.WebPages.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\WebGrease.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\System.Web.Helpers.xml
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\System.Web.Mvc.xml
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\System.Web.Optimization.xml
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\System.Web.Razor.xml
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\System.Web.WebPages.xml
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\Newtonsoft.Json.xml
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\Antlr3.Runtime.pdb
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\obj\Debug\CineApp.csproj.AssemblyReference.cache
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\obj\Debug\CineApp.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\obj\Debug\CineApp.csproj.CopyComplete
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\obj\Debug\CineApp.dll
+C:\Users\Tatiana\Desktop\UDB\DAS\04. TRABAJO UNIDAD\Desafio2\CineApp\CineApp\obj\Debug\CineApp.pdb
